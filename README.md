@@ -1,6 +1,6 @@
 To run this you'll need:
 
--monster hunter tri iso
+-monster hunter tri iso file
 
 -dolphin emulator
 
