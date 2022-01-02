@@ -14,10 +14,10 @@ machine learning was surprisingly the most straight forward thing to learn, both
 but everything else about this project was surprisingly difficult: virtual keyboards and reverse engineering memory.
 
 
-	-virtual keyboards lack some of the 'permissions' of real keyboards. Basically another way for software to identify between bots and real people.
+-virtual keyboards lack some of the 'permissions' of real keyboards. Basically another way for software to identify between bots and real people.
 took awhile to diagnose the difference, and some more time in finding a solution (AHK can emulate these hardware hooks).
 	
-	-reverse engineering memory was rather straightforward to learn... but sifting through relevant values to get access was annoyingly time consuming.
+-reverse engineering memory was rather straightforward to learn... but sifting through relevant values to get access was annoyingly time consuming.
 	
-Plan things out before writing code; makes readability way better. I finished a software design course in between starting and finishing this project.
+-Plan things out before writing code; makes readability way better. I finished a software design course in between starting and finishing this project.
 I took for granted reading other people's code, APIs with good documentation, and my ability to read my own code. Good coding practices start before writing any code.
