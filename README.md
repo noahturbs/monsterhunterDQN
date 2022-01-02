@@ -1,5 +1,7 @@
 To run this you'll need:
+
 -monster hunter tri iso
+
 -dolphin emulator
 
 
