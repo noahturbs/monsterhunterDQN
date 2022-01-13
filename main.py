@@ -32,12 +32,16 @@ state = np.array([None]*22)
 with open('model_pickle', 'rb') as f:
     dqn_agent = pickle.load(f)
 
+#USE THIS LINE BELOW IF YOU DON't HAVE PICKLE FILE
+#dqn_agent = dqn.DQN()
+
 #list of values to keep track of: ex hp, player location, etc
 
 new_state= np.reshape([None]*22, [1,22])
 empty_state= np.reshape([None]*22, [1,22])
 
-
+keylistdown = hotkeys.returnkeylistdown()
+keylistup = hotkeys.returnkeylistup()
 
 time.sleep(1)
 

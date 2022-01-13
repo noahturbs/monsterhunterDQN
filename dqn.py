@@ -1,7 +1,7 @@
 import random
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
-from keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam
 from collections import deque
 from ahk.window import Window
 
