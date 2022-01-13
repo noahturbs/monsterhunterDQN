@@ -7,7 +7,7 @@ To run this you'll need:
 
 -dolphin emulator
 
-
+-AHK(AutoHotKey) installed via their installer. use https://www.autohotkey.com/download/
 
 
 
